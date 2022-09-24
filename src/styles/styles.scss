@@ -1,0 +1,71 @@
+@import "./reset";
+
+body {
+    font-family: "Jost", sans-serif;
+    min-width: 375px;
+    background-image: url("../assets/background/bg-mobile.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    font-family: "Jost";
+    font-weight: 700;
+    font-size: 3.125rem;
+    line-height: 3.125rem;
+    letter-spacing: -0.45px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    line-height: 2.625rem;
+    letter-spacing: -0.36px;
+}
+
+h3 {
+    font-family: "Jost";
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    letter-spacing: -0.29px;
+}
+
+p {
+    font-family: "Jost";
+    font-size: 1rem;
+    line-height: 1.875rem;
+}
+
+small {
+    font-size: 0.8125rem;
+    line-height: 1.875rem;
+}
+
+a {
+    font-family: "Jost";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.1px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #33323d;
+}
+
+a:hover {
+    color: white;
+}
