@@ -1,0 +1,7 @@
+<div class="draggable-container">
+    <div cdkDropList class="example-list" (cdkDropListDropped)="drop($event)">
+        <div class="example-box" *ngFor="let workout of workouts" cdkDrag>
+            {{workout}}
+        </div>
+    </div>
+</div>
