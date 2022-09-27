@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg10"
+   sodipodi:docname="barbell.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs14"><linearGradient
+     inkscape:collect="always"
+     id="linearGradient3838"><stop
+       style="stop-color:#ffa096;stop-opacity:1;"
+       offset="0"
+       id="stop3834" /><stop
+       style="stop-color:#a896ff;stop-opacity:0.36000001;"
+       offset="1"
+       id="stop3836" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient3838"
+     id="linearGradient3840"
+     x1="100"
+     y1="110.0437"
+     x2="9899.9"
+     y2="110.0437"
+     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   id="namedview12"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.788"
+   inkscape:cx="260.7868"
+   inkscape:cy="500"
+   inkscape:window-width="1920"
+   inkscape:window-height="986"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g8" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon </metadata>
+<g
+   id="g8"><g
+     transform="translate(0.000000,511.000000) scale(0.100000,-0.100000)"
+     id="g6"
+     style="fill:url(#linearGradient3840);fill-opacity:1"><path
+       d="M6894.7,4970.3c-222.9-73-384.3-180.6-603.4-403.5c-192.2-196-192.2-196-272.8-119.1c-153.7,146-445.8,246-711,242.1c-626.4-3.8-1095.3-476.5-1095.3-1106.8c3.8-430.4,80.7-553.4,799.4-1275.9l622.6-626.4l-1106.8-1103l-1103-1106.8L2797.9,93.3C2075.4,812,1952.4,888.8,1522,888.8C891.7,888.8,407.5,420,411.3-198.7c3.8-272.9,115.3-595.7,249.8-718.7c73-65.3,65.3-73-157.6-307.5C199.9-1540,103.8-1755.2,100-2105c0-342,123-607.2,418.9-899.3l211.4-207.5l-80.7-107.6c-50-69.1-88.4-188.3-99.9-318.9c-23.1-269,99.9-499.6,338.2-634.1c199.9-111.5,518.8-99.9,687.9,26.9l107.6,80.7l207.5-211.4c292.1-295.9,557.3-418.9,899.3-418.9c349.7,3.9,545.7,92.2,872.4,395.8c242.1,230.6,253.6,234.4,315.1,165.3c123-134.5,445.8-246,714.8-246c626.4,0,1095.3,476.6,1095.3,1106.8c-3.8,430.4-80.7,553.4-799.4,1275.9l-622.6,626.4l1106.8,1103L6575.7,739l626.4-622.6C7924.6-602.3,8047.6-679.1,8478-683c630.3,0,1106.8,468.9,1106.8,1095.3c0,269-107.6,591.8-245.9,714.8c-69.2,61.5-65.3,73,165.2,315.1c303.6,326.7,392,522.7,395.8,872.4c0,342-123,607.2-418.9,899.3l-211.4,207.5l80.7,107.6c126.8,169.1,138.3,488.1,26.9,687.9c-134.5,238.3-365.1,361.3-634.1,338.2c-130.7-11.5-249.8-50-319-99.9l-107.6-80.7l-207.5,211.4C7747.8,4951,7286.7,5097.1,6894.7,4970.3z M8312.8,3417.6l914.7-910.8v-188.3c0-172.9-15.4-199.9-219.1-411.2l-222.9-230.6L7678.7,2787.3L6571.9,3894.2l230.6,219c211.4,203.7,242.1,219.1,415.1,219.1H7402L8312.8,3417.6z M5511.1,3978.7c46.1-23,810.9-772.5,1702.5-1660.2C8101.4,1426.9,8850.8,662.1,8873.9,616c88.4-165.3,57.6-353.6-84.6-495.8C8677.9,8.8,8631.8-10.4,8474.2-10.4h-188.3L6587.2,1692L4884.7,3390.7V3579c0,157.6,19.2,203.7,130.7,315.1C5157.6,4036.4,5345.9,4067.1,5511.1,3978.7z M3412.8-1482.4L5115.3-3181v-180.6c0-242.1-142.2-411.2-368.9-442c-88.4-11.5-188.3-3.8-226.7,15.4c-84.6,50-3358.9,3316.6-3405,3401.2c-19.2,34.6-34.6,126.8-34.6,203.7c0,111.4,30.7,172.9,130.7,272.9c111.4,111.4,157.6,130.6,315.1,130.6h188.3L3412.8-1482.4z M2309.8-2604.6l1095.3-1099.2L3186-3911.2c-199.8-196-230.6-211.4-399.7-211.4H2598l-910.8,914.7l-914.7,910.8v184.5c0,169.1,15.4,203.7,196,395.9c111.4,115.3,211.4,207.5,222.9,207.5C1203-1509.3,1706.4-2001.2,2309.8-2604.6z"
+       id="path4"
+       style="fill:url(#linearGradient3840);fill-opacity:1" /></g></g>
+</svg>
