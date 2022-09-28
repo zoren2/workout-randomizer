@@ -7,7 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class WorkoutCardComponent implements OnInit {
 
-  @Input() cardExercise?: String;
+  @Input() cardExercise!: { exercise: String, weight: String };
 
   constructor() { }
 

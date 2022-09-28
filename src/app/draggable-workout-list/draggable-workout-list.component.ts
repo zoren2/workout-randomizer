@@ -8,13 +8,36 @@ import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 })
 export class DraggableWorkoutListComponent implements OnInit {
   workouts = [
-    'Back Squat',
-    'Barbell Bench Press',
-    'Lat Pulldown',
-    'Romanian Deadlift',
-    'Assisted Dip',
-    'Standing Calf Raise',
-    'Dumbbell Supinated Curl'
+    {
+      exercise: 'Back Squat',
+      weight: '155'
+    },
+    {
+      exercise: 'Barbell Bench Press',
+      weight: '115'
+    },
+    {
+      exercise: 'Lat Pulldown',
+      weight: '95'
+    },
+    {
+      exercise: 'Deadlift',
+      weight: '185'
+    }
+    ,
+    {
+      exercise: 'Dip',
+      weight: '175'
+    }
+    ,
+    {
+      exercise: 'Standing Calf Raise',
+      weight: '320'
+    },
+    {
+      exercise: 'Dumbbell Supinated Curl',
+      weight: '30'
+    }
   ];
 
 

@@ -2,3 +2,17 @@
     display: flex;
     flex-direction: column;
 }
+
+.header-current-workout {
+    margin-left: 9vw;
+    color: #ffffff;
+    font-size: 1rem;
+    padding-top: 100px;
+}
+
+.header-incomplete {
+    margin-left: 9vw;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 1rem;
+}

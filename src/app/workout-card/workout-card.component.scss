@@ -7,37 +7,19 @@
     margin: 50px auto 0 auto;
 }
 
-.example-list {
-    width: 500px;
-    max-width: 100%;
-    border: solid 3px #0f1b3d;
-    min-height: 60px;
-    display: block;
-    background: transparent;
-    border-radius: 4px;
-    overflow: hidden;
-}
-
-.example-box {
-    border-radius: 3px;
-    border-bottom: solid 1px #ccc;
-    color: rgba(0, 0, 0, 0.87);
-    height: 100px;
-    display: grid;
-    grid-template-columns: 25% 50% 25%;
-    grid-template-areas: "random-button workout-header finish-button";
-    box-sizing: border-box;
-    cursor: move;
-    background: white;
-    font-size: 14px;
-    margin-bottom: 20px;
+.rep-banner {
+    grid-area: rep-banner;
+    background-color: #9277ff;
+    display: flex;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .random-button {
     grid-area: random-button;
     display: flex;
     flex-direction: column;
-    border-radius: 3px;
+    border-bottom-left-radius: 5px;
     background-color: aliceblue;
     height: 100%;
 }
@@ -50,42 +32,30 @@
 
 .workout-header {
     grid-area: workout-header;
+    font-weight: 700;
     margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.workout-weight {
+    grid-area: workout-weight;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .finish-button {
     grid-area: finish-button;
     display: flex;
     flex-direction: column;
-    border-radius: 3px;
-    background-color: #65f067;
+    border-bottom-right-radius: 5px;
+    background-color: #33d69f;
 }
 
 .finish-button .check-icon {
     height: 30px;
     width: 30px;
     margin: auto;
-}
-
-.cdk-drag-preview {
-    box-sizing: border-box;
-    border-radius: 4px;
-    box-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2), 0 8px 10px 1px rgba(0, 0, 0, 0.14),
-        0 3px 14px 2px rgba(0, 0, 0, 0.12);
-}
-
-.cdk-drag-placeholder {
-    opacity: 0;
-}
-
-.cdk-drag-animating {
-    transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
-}
-
-.example-box:last-child {
-    border: none;
-}
-
-.example-list.cdk-drop-list-dragging .example-box:not(.cdk-drag-placeholder) {
-    transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
 }
