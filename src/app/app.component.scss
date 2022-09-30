@@ -4,15 +4,23 @@
 }
 
 .header-current-workout {
-    margin-left: 9vw;
+    align-self: center;
+    margin-bottom: 20px;
     color: #ffffff;
     font-size: 1rem;
     padding-top: 100px;
 }
 
 .header-incomplete {
-    margin-left: 9vw;
+    margin-right: 50px;
     font-weight: 500;
     color: #ffffff;
     font-size: 1rem;
+    width: 200px;
+    background-color: #ff424225;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-bottom: -7px;
+    border: 3px solid #0f1b3d30;
+    align-self: center;
 }

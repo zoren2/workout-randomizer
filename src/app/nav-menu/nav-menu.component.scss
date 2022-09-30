@@ -1,3 +1,7 @@
+:host {
+    min-width: 375px;
+}
+
 .nav-container {
     position: fixed;
     height: 85px;
@@ -13,20 +17,28 @@
     align-items: center;
     justify-content: center;
     height: 100%;
-    width: 25vw;
+    width: 100px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-image: linear-gradient(#873cff, #873cff00 0%), linear-gradient(-33deg, #789bffe6 45%, #697ed4 0%);
-    opacity: 0.9;
-    transition: .5s;
+    background-image: linear-gradient(#873cff, #873cff00 0%), linear-gradient(-33deg, #789bff 45%, #697ed4 0%);
+    opacity: 1;
+    transition: 0.5s;
 }
 
 .nav-icon:hover {
-    opacity: 1.1;
+    opacity: 0.5;
     cursor: pointer;
 }
 
 .barbell-icon {
     height: 50%;
     width: 50%;
+}
+
+.app-header {
+    margin: 20px 0 0 20px;
+    color: #ffffff;
+    font-size: 1rem;
+    font-style: italic;
+    white-space: nowrap;
 }
