@@ -1,0 +1,42 @@
+.footer-nav-container {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 5px 0 5px;
+    border-right: 1px solid #ffffff25;
+}
+
+.divide-line {
+    border-right: 1px solid white;
+    height: 100%;
+    width: 1px;
+    opacity: 0.2;
+}
+
+.outer-line {
+    height: 100%;
+    width: 1px;
+}
+
+.shuffle-icon {
+    width: 40%;
+    height: 40%;
+}
+
+.button-text {
+    color: white;
+    font-size: 1rem;
+}
